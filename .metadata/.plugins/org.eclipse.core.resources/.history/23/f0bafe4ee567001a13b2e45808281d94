@@ -1,0 +1,21 @@
+package aula1;
+
+import javax.swing.JOptionPane;
+
+public class App {
+
+	public static void main(String[] args) {
+		int a = 10;
+		int b = 20;
+		Carro automovel = new Carro();
+		automovel.cor = "vermelho";
+		automovel.modelo = "van";
+		automovel.placa = "pno-6528";
+		automovel.ano = 2016;
+		
+		
+		JOptionPane.showMessageDialog(null, automovel);
+	}
+	
+
+}

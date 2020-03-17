@@ -1,0 +1,17 @@
+package aula1;
+
+public class Carro {
+	
+	 String	placa;
+	 String modelo;
+	 String	cor;
+	 static int ano = 90;
+ 
+	@Override
+	public String toString() {
+		return "Carro [placa=" + placa + ", modelo=" + modelo + ", cor=" + cor + "]";
+	}
+ 
+ 
+
+}

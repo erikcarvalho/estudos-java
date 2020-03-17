@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;aula1.Wxemplo1&apos; to &apos;Exemplo1&apos;&#x0D;&#x0A;- Original project: &apos;aula1&apos;&#x0D;&#x0A;- Original element: &apos;aula1.Wxemplo1&apos;&#x0D;&#x0A;- Renamed element: &apos;aula1.Exemplo1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Wxemplo1&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;aula1{Wxemplo1.java[Wxemplo1" matchStrategy="1" name="Exemplo1" qualified="false" references="true" similarDeclarations="false" stamp="1584405921381" textual="false" version="1.0"/>
+</session>

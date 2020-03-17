@@ -1,0 +1,13 @@
+package aula1;
+
+public class App {
+
+	public static void main(String[] args) {
+		message();
+	}
+	
+	void message(){
+		System.out.println("Olá mundo");
+	}
+
+}

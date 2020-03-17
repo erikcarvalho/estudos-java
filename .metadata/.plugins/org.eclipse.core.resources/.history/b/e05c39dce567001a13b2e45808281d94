@@ -1,0 +1,10 @@
+package aula1;
+
+public class Carro {
+	
+ String	placa;
+ String modelo;
+ String	cor;
+ static int ano = 90;
+
+}
